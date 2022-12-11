@@ -1,2 +1,2 @@
-# Dino-Dash-Game
-Nearly Finished, using JavaScript
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
